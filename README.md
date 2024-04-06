@@ -12,6 +12,6 @@ control transfers to the camera.
 ## Prior works
 
 * [saki4510t/UVCCamera](https://github.com/saki4510t/UVCCamera/tree/master)
-* [Peter-St/Android-UVC-Camera](https://github.com/Peter-St/Android-UVC-Camera/master)
+* [Peter-St/Android-UVC-Camera](https://github.com/Peter-St/Android-UVC-Camera/tree/master)
 
 Thanks to Peter-St for having an app on the playstore that proved my device can operate on my phone.
